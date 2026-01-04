@@ -7,9 +7,9 @@ def banner():
     print("\033[92m")
     print("="*60)
     print("       𝐀𝐏𝐈 𝐂𝐇𝐄𝐂𝐊𝐄𝐑 𝐓𝐎𝐎𝐋")
-    print("        TEAM BLACK HAT")
+    print("        TEAM CYBER ATTACK")
     print("="*60)
-    print("\033[91m        DEVELOPER: OLD-HACKER \033[0m")
+    print("\033[91m        DEVELOPER: CYBER LAKIYA \033[0m")
     print("="*60)
     print("\033[0m")
 
